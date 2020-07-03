@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="never" value="verify(exactly = 0){&#10;    $END$&#10;}" description="MockK verify that the calls never happened" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
